@@ -1,0 +1,22 @@
+/* .home-splash-container{
+    border:1px solid black;
+    height: 100%;
+    flex-direction: column;
+} */
+
+.remaining-height{
+    height: 100vh;
+}
+
+.jumbotron {
+    padding:0px;
+}
+
+.splash-text-CTA{
+    /* border:1px solid black; */
+    padding-top:50px;
+}
+
+.splash-text{
+    font: white;
+}
